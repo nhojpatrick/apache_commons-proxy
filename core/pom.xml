@@ -31,6 +31,11 @@
             <artifactId>commons-lang3</artifactId>
         </dependency>
         <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
             <groupId>jmock</groupId>
             <artifactId>jmock</artifactId>
             <scope>test</scope>
